@@ -36,6 +36,10 @@
     ]
   },
   "license": "MIT",
+  "scripts": {
+    "package": "mkdir -p ./bin && vsce package -o ./bin/konoha.vsix",
+    "v:publish": "vsce publish"
+  },
   "devDependencies": {
     "vsce": "^2.13.0"
   }
