@@ -3,8 +3,8 @@
   "displayName": "Konoha Theme",
   "description": "A dark theme inspired by Radix UI Colors",
   "author": "Matheus Martins <mmartinsolliv@gmail.com>",
-  "publisher": "mmartinsoliv",
-  "version": "0.1.0",
+  "publisher": "MatheusMartins",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.72.0"
   },
