@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img alt="Konoha Theme screenshot for Visual Studio Code" src="https://imgur.com/a/kgCwRPK.png">
+  <img alt="Konoha Theme screenshot for Visual Studio Code" src="https://i.imgur.com/2n7zUvk.png">
 </p>
 
 ## Color Palette
