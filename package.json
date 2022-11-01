@@ -1,0 +1,42 @@
+{
+  "name": "konoha-theme",
+  "displayName": "Konoha Theme",
+  "description": "A dark theme inspired by Radix UI Colors",
+  "author": "Matheus Martins <mmartinsolliv@gmail.com>",
+  "publisher": "mmartinsoliv",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "maintainers": [
+    "Matheus Martins <mmartinsolliv@gmail.com>"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Konoha Theme",
+    "Radix UI",
+    "Color scheme"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Konoha Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/konoha.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vsce": "^2.13.0"
+  }
+}
