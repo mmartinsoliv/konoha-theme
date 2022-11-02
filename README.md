@@ -12,6 +12,7 @@
 </p>
 
 <p align="center">
+  <a href="#install">Install</a> •
   <a href="#team">Team</a> •
   <a href="#preferences-shown-in-the-preview">Imitate Preview</a> •
   <a href="#color-palette">Color Palette</a> •
@@ -21,6 +22,10 @@
 <p align="center">
   <img alt="Konoha Theme screenshot for Visual Studio Code" src="https://imgur.com/a/kgCwRPK.png">
 </p>
+
+## Install
+
+All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Color Palette
 
